@@ -45,3 +45,8 @@ Output of Displaying All Tickets
 Output of Displaying a ticket based on Ticket ID
 
 ![](screenshots/Part2.png)
+
+
+## Developer Information
+
+Please reach out to me on **rgoel20@uic.edu** in case of any failures. 
