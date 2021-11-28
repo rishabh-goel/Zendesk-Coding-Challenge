@@ -1,0 +1,69 @@
+{
+   "ticket":{
+      "url":"https://zccrishabh.zendesk.com/api/v2/tickets/12.json",
+      "id":12,
+      "external_id":"None",
+      "via":{
+         "channel":"api",
+         "source":{
+            "from":{
+
+            },
+            "to":{
+
+            },
+            "rel":"None"
+         }
+      },
+      "created_at":"2021-11-25T20:35:46Z",
+      "updated_at":"2021-11-25T20:35:46Z",
+      "type":"None",
+      "subject":"tempor aliquip sint dolore incididunt",
+      "raw_subject":"tempor aliquip sint dolore incididunt",
+      "description":"Amet sint ea minim excepteur amet. Eiusmod duis ad ea ad aliquip occaecat ea voluptate sunt cillum duis aute. Esse in duis tempor et. Est duis nulla irure ullamco amet sit esse Lorem eu aliqua ullamco sunt. In sint dolore id eu ea.\n\nIrure proident nulla deserunt officia laboris culpa. Qui est adipisicing elit tempor cupidatat minim laborum ea est nostrud nulla mollit id dolore. Aute amet amet deserunt incididunt magna ipsum exercitation nostrud incididunt ea qui anim. Adipisicing irure commodo consectetur Lorem ad excepteur nulla eiusmod aliquip irure occaecat. Id sint fugiat proident Lorem est minim ea sint irure. Veniam sint ex minim duis est.",
+      "priority":"None",
+      "status":"open",
+      "recipient":"None",
+      "requester_id":1902325121604,
+      "submitter_id":1902325121604,
+      "assignee_id":1902325121604,
+      "organization_id":1260919417690,
+      "group_id":4411194098331,
+      "collaborator_ids":[
+
+      ],
+      "follower_ids":[
+
+      ],
+      "email_cc_ids":[
+
+      ],
+      "forum_topic_id":"None",
+      "problem_id":"None",
+      "has_incidents":false,
+      "is_public":true,
+      "due_at":"None",
+      "tags":[
+         "ad",
+         "minim",
+         "non"
+      ],
+      "custom_fields":[
+
+      ],
+      "satisfaction_rating":"None",
+      "sharing_agreement_ids":[
+
+      ],
+      "fields":[
+
+      ],
+      "followup_ids":[
+
+      ],
+      "ticket_form_id":1260815120590,
+      "brand_id":1260803288650,
+      "allow_channelback":false,
+      "allow_attachments":true
+   }
+}
